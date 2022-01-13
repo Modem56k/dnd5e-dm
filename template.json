@@ -162,6 +162,14 @@
               "passive": ""
             }
           },
+          "dat": {
+            "value": 0,
+            "ability": "int",
+            "bonuses": {
+              "check":"",
+              "passive": ""
+            }
+          },
           "dec": {
             "value": 0,
             "ability": "cha",
@@ -242,6 +250,14 @@
               "passive": ""
             }
           },
+          "pil": {
+            "value": 0,
+            "ability": "dex",
+            "bonuses": {
+              "check":"",
+              "passive": ""
+            }
+          },
           "rel": {
             "value": 0,
             "ability": "int",
@@ -271,6 +287,14 @@
             "ability": "wis",
             "bonuses": {
               "check": "",
+              "passive": ""
+            }
+          },
+          "tec": {
+            "value": 0,
+            "ability": "int",
+            "bonuses": {
+              "check":"",
               "passive": ""
             }
           }
